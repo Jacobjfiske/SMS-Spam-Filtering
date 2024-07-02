@@ -2,8 +2,7 @@
 //  SpamClassifierApp.swift
 //  SpamClassifier
 //
-//  Created by Jacob fiske on 5/8/23.
-//
+//  Created by Jacob fiske 
 
 import SwiftUI
 
